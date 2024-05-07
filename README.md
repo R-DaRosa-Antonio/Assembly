@@ -52,11 +52,11 @@ NAME_I, HEX 0
 NAME_O2, HEX 0
 
 
-![alt text](<../Captura de tela 2024-05-05 132350.png>)
+![alt text](<../Captura1.png>)
 
-![alt text](<../Captura de tela 2024-05-05 132449.png>)
+![alt text](<../Captura2.png>)
 
-![alt text](<../Captura de tela 2024-05-05 132520.png>)
+![alt text](<../Captura3.png>)
 
 
 # 2° Atividade: VsCode
