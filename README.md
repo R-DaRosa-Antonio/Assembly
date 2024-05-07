@@ -12,6 +12,8 @@
 **Finalização:** Encerre o programa, liberando recursos alocados, se necessário.
 
 # Codigo 
+
+``` sh 
 ORG 000 / Inicia o programa no endereço 000
 
 Load A
@@ -43,6 +45,7 @@ O2, HEX 111
 
 /Reservar o espaço para o nome 'Antonio'
 
+
 NAME_A, HEX 0
 NAME_N, HEX 0
 NAME_T, HEX 0
@@ -50,6 +53,8 @@ NAME_O, HEX 0
 NAME_N2, HEX 0
 NAME_I, HEX 0
 NAME_O2, HEX 0
+```  
+
 
 ![alt text](Captura1.png)
 
