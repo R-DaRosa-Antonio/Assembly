@@ -58,9 +58,9 @@ NAME_O2, HEX 0
 
 ![alt text](Captura1.png)
 
-![alt text](Captura2.png)
-
 ![alt text](Captura3.png)
+
+![alt text](Captura2.png)
 
 # 2° Atividade: VsCode
 
